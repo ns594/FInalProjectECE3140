@@ -6,6 +6,7 @@ int main(void){
 		if (counter > 0xFF){
 			counter = 0;
 			//now some comment is here
+			//another comment;
 		}
 	}
 }
